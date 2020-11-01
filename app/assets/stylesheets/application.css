@@ -19,3 +19,6 @@
   background-color: red;
   display: table;
 }
+.error_message {
+  color: red;
+}
